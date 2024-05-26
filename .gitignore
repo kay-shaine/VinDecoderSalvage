@@ -1,0 +1,21 @@
+# .gitignore
+# Ignore node_modules
+node_modules/
+
+# Ignore build outputs
+dist/
+build/
+
+# Ignore .env files
+.env
+
+# Ignore .NET stuff
+bin/
+obj/
+.vscode/
+
+# Ignore IDE specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
